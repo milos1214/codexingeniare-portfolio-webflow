@@ -2,11 +2,15 @@
 
 Welcome to the official portfolio website I designed and developed for **Codex Ingeniare**! This website was built using **Webflow** with custom code integrations, including **Typer.js** for dynamic text animation, a fully **responsive design**, and optimized for **SEO**. The goal was to create a visually engaging, user-friendly, and interactive online presence for client.
 
-## Table of Contents
+<br>
+
+<img src="./assets/Hero.png">
 
 ## Project Overview
 
 This portfolio website showcases **Codex Ingeniare**'s work and services in a visually stunning and professional way. Through a combination of modern design techniques, animations (via **Typer.js**), and a mobile-first approach, the portfolio offers an engaging experience to users on all devices.
+
+👉 [Explore this project](https://codexingeniare-portfolio.webflow.io/)
 
 ## Features 🎯
 
@@ -27,6 +31,10 @@ This portfolio website showcases **Codex Ingeniare**'s work and services in a vi
 
 The portfolio features a **responsive design** that ensures a seamless experience across various screen sizes. The layout adjusts fluidly, keeping the content visually appealing and functional on devices ranging from large desktop screens to small mobile devices.
 
+<br>
+
+<img src="./assets/Mobile.png" style="width: 50%;"></img>
+
 ## Performance ⚡
 
 - **Fast Load Times**: Optimized images and assets for quick page loads.
@@ -42,13 +50,18 @@ SEO best practices were implemented to enhance the visibility of the portfolio:
 - **Alt Text for Images**: Descriptive text added for better indexing by search engines.
 
 ## Website Score
+The portfolio website has been tested using **Google PageSpeed Insights** to ensure optimal performance, accessibility, and user experience. Here are the highlights:
+
+<br>
+
+<img src="./assets/Score.png"></img>
 
 ## Contact 📬
 
 Interested in collaborating or need more information? Reach out via the following:
 
-- **Email**: 
-- **LinkedIn**: 
+- **Email**: milosstankovic2002@gmail.com
+- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/milo%C5%A1-stankovi%C4%87-6b3865186/)
 
 Thank you for checking out this project!
 
