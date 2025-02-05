@@ -10,7 +10,7 @@ Welcome to the official portfolio website I designed and developed for **Codex I
 
 This portfolio website showcases **Codex Ingeniare**'s work and services in a visually stunning and professional way. Through a combination of modern design techniques, animations (via **Typer.js**), and a mobile-first approach, the portfolio offers an engaging experience to users on all devices.
 
-👉 [Explore this project](https://codexingeniare-portfolio.webflow.io/)
+[![Explore This Project](https://img.shields.io/badge/Explore%20This%20Project-black?style=for-the-badge)](https://codexingeniare-portfolio.webflow.io/)
 
 ## Features 🎯
 
